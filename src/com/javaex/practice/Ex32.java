@@ -20,7 +20,6 @@ public class Ex32 {
 		sc.close();
 		//
 		
-		
 	}
 
 }

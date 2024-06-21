@@ -4,7 +4,6 @@ public class Ex35 {
 
 	public static void main(String[] args) {
 
-		
 		// c = 300000 1분 =60초 /1시간 60*60초 / 하루 = 24* 60*60 / 1년 = 365*하루
 		
 		long year = 24*60*60*365L;

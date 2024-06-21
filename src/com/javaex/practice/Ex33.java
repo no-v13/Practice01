@@ -20,7 +20,6 @@ public class Ex33 {
 		sc.close();
 		
 		
-		
 	}
 
 }

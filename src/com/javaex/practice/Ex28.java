@@ -12,7 +12,7 @@ public class Ex28 {
 		
 		double won = sc.nextDouble();
 		double dal = won/1230.95;
-		//  $ = 값/상수
+		// $ = 값/상수
 		
 		System.out.println("받으실 달러는: "+ dal);
 		

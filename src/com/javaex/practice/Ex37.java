@@ -22,5 +22,6 @@ public class Ex37 {
 		
 		sc.close();
 	
+		
 	}
 }

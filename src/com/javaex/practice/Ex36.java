@@ -25,6 +25,7 @@ public class Ex36 {
 		System.out.print("동전 총합은"+tot+"원 입니다.");
 		
 		sc.close();
+		
 	}
 
 }

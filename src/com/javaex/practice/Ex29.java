@@ -11,7 +11,6 @@ public class Ex29 {
 		Scanner sc = new Scanner(System.in);
 		double wid = sc.nextDouble();
 		
-		
 	
 		System.out.print("세로를 입력하세요");
 		double len = sc.nextDouble();

@@ -19,7 +19,6 @@ public class Ex30 {
 		sc.close();
 		
 		
-		
 	}
 
 }

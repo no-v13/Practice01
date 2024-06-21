@@ -16,6 +16,7 @@ public class Ex38 {
 		System.out.print(disc);
 		
 		sc.close();
+		
 	}
 
 }

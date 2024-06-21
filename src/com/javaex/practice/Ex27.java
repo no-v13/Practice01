@@ -17,7 +17,6 @@ public class Ex27 {
 		sc.close();
 		
 		
-		
 	}
 
 }
