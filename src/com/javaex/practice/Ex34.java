@@ -12,13 +12,13 @@ public class Ex34 {
 		Scanner sc = new Scanner(System.in);
 		
 		double F = sc.nextDouble();
-		//double C = 5/9*(F-32);
+		double C = (F-32)*5/9; //식이 문제인고 같음_ 왜..?
+		                        //C = 5/9*(F-32) 앞에가 정수라 좀 나누면 이상해지는 거 같음
 		
-		//System.out.print("화씨 "+F+"의 섭씨온도는 "+C+" 입니다.");
-		//sc.close();
+		System.out.print("화씨 "+F+"의 섭씨온도는 "+C+" 입니다.");
+		sc.close();
 		
 		
-		//섭씨온도가 0으로 나옴
 	}
 
 }
