@@ -18,7 +18,6 @@ public class Ex25 {
 		System.out.println((a/3==4) || (a%3==2));
 		System.out.println((a/3==4) && (a%3==2) || a/3==4);
 		
-		
 	}
 
 }

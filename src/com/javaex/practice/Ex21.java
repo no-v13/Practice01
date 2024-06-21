@@ -10,8 +10,6 @@ public class Ex21 {
 		System.out.println(i); 
 		System.out.println(n); 
 		
-		
-		
 	}
 
 }

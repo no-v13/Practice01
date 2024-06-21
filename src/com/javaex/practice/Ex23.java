@@ -7,7 +7,7 @@ public class Ex23 {
 		double speed = 90.0;
 		double time = 60.0;
 		double dist = speed * time;
-				
+		
 		System.out.println(dist);
 		
 	}

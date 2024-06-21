@@ -9,6 +9,7 @@ public class Ex20 {
 		
 		System.out.println(i); // i = 11
 		System.out.println(n); // n = 0
+		
 	}
 
 }
