@@ -18,6 +18,8 @@ public class Ex32 {
 		System.out.print("삼각형의 넓이는: "+wid*len/2+"입니다.");
 		
 		sc.close();
+		//
+		
 		
 	}
 
