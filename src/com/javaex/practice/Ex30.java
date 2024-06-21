@@ -13,7 +13,7 @@ public class Ex30 {
 		Scanner sc = new Scanner(System.in);
 		
 		double mile = sc.nextDouble();
-		//System.out.print("
+		System.out.print(mile+"은"+(mile*1.609)+"km 입니다.");
 		
 		
 		sc.close();
